@@ -1,6 +1,6 @@
-## 🌱 Atualmente estou aprendendo: Java. Em breve, começarei a ver JavaScript e HTML.
-
-😄 Pronomes: Ele/Dele.
+## Olá, meu nome é João Luccas 
+🌱 Atualmente estou aprendendo: Java. Em breve, começarei a ver JavaScript e HTML
+😄 Pronomes: Ele/Dele 
  
  <div align="center">
   <a href="https://github.com/devJoaoLuccas">
