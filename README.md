@@ -1,4 +1,3 @@
-Bem vindo ao meu GitHub, me chamo João Luccas!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apidevJoaoLuccas=anuraghazra&count_private=true)
 
