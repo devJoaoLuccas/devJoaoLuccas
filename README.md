@@ -1,9 +1,8 @@
 Bem vindo ao meu GitHub, me chamo João Luccas!
 
-![Snake animation](https://github.com/seu-usuário-aqui/devJoaoLuccas/blob/output/github-contribution-grid-snake.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?devJoaoLuccas=anuraghazra&count_private=true)
 
 - 🌱 Atualmente estou aprendendo: Java. Em breve, começarei a ver JavaScript e HTML.
-
 
 
 📫 Como entrar em contato comigo: 
