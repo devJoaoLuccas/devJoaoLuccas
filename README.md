@@ -1,6 +1,6 @@
 Bem vindo ao meu GitHub, me chamo João Luccas!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?devJoaoLuccas=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apidevJoaoLuccas=anuraghazra&count_private=true)
 
 - 🌱 Atualmente estou aprendendo: Java. Em breve, começarei a ver JavaScript e HTML.
 
