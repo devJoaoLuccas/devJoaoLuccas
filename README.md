@@ -1,5 +1,5 @@
 ## Olá, meu nome é João Luccas 
-🌱 Atualmente estou aprendendo: Java. Em breve, começarei a ver JavaScript e HTML
+🌱 I'm aproving my self to become a software developer. 
 😄 Pronomes: Ele/Dele 
  
  <div align="center">
