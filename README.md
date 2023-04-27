@@ -1,5 +1,5 @@
 ## Olá, meu nome é João Luccas 
-🌱 I'm aproving my self to become a software developer. 
+🌱 I'm improving myself to become a software developer. 
 😄 Pronomes: Ele/Dele 
  
  <div align="center">
