@@ -1,6 +1,5 @@
 ## Olá, meu nome é João Luccas 
 🌱 I'm improving myself to become a software developer. 
-😄 Pronomes: Ele/Dele 
  
  <div align="center">
   <a href="https://github.com/devJoaoLuccas">
